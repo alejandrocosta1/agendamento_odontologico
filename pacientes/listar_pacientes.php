@@ -122,7 +122,7 @@
 <body>
     <div class="container">
         <h1>Gerenciamento de Pacientes</h1>
-        <p><a href="cadastro_paciente.html" class="btn btn-primary">Cadastrar Novo Paciente</a></p>
+        <p><a href="cadastro_paciente.php" class="btn btn-primary">Cadastrar Novo Paciente</a></p>
 
         <?php
         include '../conexao.php';

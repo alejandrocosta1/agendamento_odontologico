@@ -25,4 +25,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 }
 ?>
 <br>
-<a href="listar_agendamentos.php">Voltar para a Listagem</a>
+<a href="listar_agendamento.php">Voltar para a Listagem</a>

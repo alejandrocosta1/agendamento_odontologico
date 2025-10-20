@@ -79,7 +79,7 @@
 <body>
     <div class="container">
         <h1>Gerenciamento de Dentistas</h1>
-        <p><a href="cadastro_dentista.html" class="btn btn-primary">Cadastrar Novo Dentista</a></p>
+        <p><a href="cadastro_dentista.php" class="btn btn-primary">Cadastrar Novo Dentista</a></p>
 
         <?php
         include '../conexao.php';
